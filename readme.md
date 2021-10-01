@@ -50,3 +50,5 @@ use the Add In buttons to select additonal minutes to get the required time
 use the Enable Alarm button to prime the alarm
 The selected larm time and its enable state are shown in the text field
 ```
+
+Video of clock in use at https://youtu.be/EFwlqQV37jg
